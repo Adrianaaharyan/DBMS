@@ -1,4 +1,4 @@
-# KRMU PlaceIQ
+# KRMU PlaceIQ - link(https://smart-placement-management-system-seven.vercel.app/)
 
 A placement management system for the Career Development Cell (CDC) at K.R. Mangalam University, Gurugram. It shows the university's official placement figures, runs campus drives, scores student readiness, matches students to drives, and includes an adaptive aptitude round.
 
